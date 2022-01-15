@@ -4,7 +4,7 @@ This is made for those who are learning react and are tired of doing create-reac
 
 Hope this saves some time for those that are trying to do fast tests or learning react.
 
-### THIS IS NOT INTENTED TO BE USED FOR DEVELOPING REAL PROJECTS, IN THAT CASE, USE 
+### THIS IS NOT INTENDED TO BE USED FOR DEVELOPING REAL PROJECTS, IN THAT CASE, USE 
 
 ```npx create-react-app```
 
