@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import GoogleButton from 'react-google-button'
 import { NavLink } from 'react-router-dom';
-import { Login, Register } from '../actions/authActions';
+import { Register } from '../actions/authActions';
 import {useDispatch} from "react-redux"
 import { useNavigate } from "react-router-dom";
 
