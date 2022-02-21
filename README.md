@@ -1,21 +1,13 @@
-# Easy React Pack (ERP)
+# Add your secrets (ERP)
 
-This is made for those who are learning react and are tired of doing create-react-app and having to delete those unused files.
+Just a secrets CRUD using firebase for authentication.
 
-Hope this saves some time for those that are trying to do fast tests or learning react.
+### TECNOLOGIES USED
 
-### THIS IS NOT INTENDED TO BE USED FOR DEVELOPING REAL PROJECTS, IN THAT CASE, USE 
+-React
+-Redux
+-Firebase
 
-```npx create-react-app```
-
-## Installation
-```git clone https://github.com/EduardoDevOlmedo/REACT-EASY-TO-GET-REPO```
-
-```cd REACT-EASY-TO-GET-REPO/```
-
-```npm i```
-
-```npm start```
 
 Done! 
 
