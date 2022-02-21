@@ -1,5 +1,47 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+.navbar-collapse {
+    flex-grow: 0 !important;
+}
+
+.user-presentation {
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.container {
+    text-align: center;
+}
+
+table {
+    margin-top: 10px;   
+}
+
+.black {
+    opacity: 0.3;
+    color: white;
+}
+
+.contains {
+    display: grid;
+    grid-template: repeat(1, 1fr) / repeat(2, 1fr);
+    align-items: center;
+}
+
+.btn {
+    width: 150px;
+    justify-self: center;
+    margin: 10px;
+}
+
+
+.btn i {
+    font-size: 2rem;
+    line-height: 1;
+}
+
+p {
+    font-weight: bold;
+    color: red;
 }
